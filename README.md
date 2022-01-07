@@ -10,7 +10,6 @@
 	<a href="https://wa.me/380501802833"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
 </p>
 
-![alt README header](https://raw.githubusercontent.com/upmanager/upmanager/master/header.png)
 
 <a><h2>Stats</h2></a>
 <div>
