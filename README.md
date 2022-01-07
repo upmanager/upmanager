@@ -15,7 +15,7 @@
 <div>
     <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=upmanager&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=upmanager&theme=onedark&hide_border=true"/>
-    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=upmanager&row=4&theme=onedark&no-frame=true"/>
+    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=upmanager&row=1&theme=onedark&no-frame=true"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
