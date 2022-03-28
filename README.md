@@ -2,7 +2,7 @@
 <h3 align="center">Professional Web & Mobile developer</h3>
 
 <p align="center">
-#  	<a href="https://up-manager.herokuapp.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+[//]: #  	<a href="https://up-manager.herokuapp.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="https://www.linkedin.com/in/andzhei-kalenykov-a672b6225"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:upmanager200@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://join.skype.com/invite/M5lM6Wkhgr8z"><img src="https://img.icons8.com/doodle/48/000000/skype.png" alt="Telegram app"/></a>
